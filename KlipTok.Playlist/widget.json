@@ -1,0 +1,10 @@
+{
+  "playlistOwner": {
+    "type": "text",
+    "label": "KlipTok Playlist Owner:"
+  },
+  "playlistId": {
+  	"type": "text",
+    "label": "Playlist Id to show:"
+  }
+}
